@@ -1,1 +1,3 @@
-# yf_streamlit_python
+# Streamlit - Python
+
+Aprendendo a usar a ferramenta. 
