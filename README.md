@@ -1,3 +1,3 @@
-# Streamlit - Python
+# Streamlit
 
 Aprendendo a usar a ferramenta. 
